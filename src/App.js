@@ -28,6 +28,7 @@ function App() {
     let slink = data.result.code;
     ans = 'https://shrtco.de/'+slink;
     console.log(ans);
+    ans = 'https://shrtco.de/'+slink;
   })
   .catch((err)=>{
     console.log("Please enter a valid link");
@@ -53,6 +54,13 @@ function App() {
       <button class="submit" onClick={createTiny}>Submit</button>
 
       <h4>Shorted link: <h6 class="link">{tinylink}</h6> </h4>
+
+      <footer>It may take some time to show the shorted link for the first time<br></br>
+        Author: Rida Farhan <br></br>
+            <a href="mailto:rida.farhan99@gmail.com">rida.farhan@gmail.com</a><br></br>
+            <a href="https://github.com/Ridafarhan99/Tiny-URL">GitHub</a>
+            
+        </footer>
     </div>
   );
 }
