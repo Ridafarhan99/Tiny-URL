@@ -21,3 +21,8 @@
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+
+#story 
+# 1. delete app.test.js, logo.svg, setupTests.js
+# 2. delete from app.js import logo from './logo.svg';
+# 3. delete inside div className=app from App.js
