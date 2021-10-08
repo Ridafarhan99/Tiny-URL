@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Tiny-URL/static/css/main.91ee462f.chunk.css",
+    "main.js": "/Tiny-URL/static/js/main.7b3e851e.chunk.js",
+    "main.js.map": "/Tiny-URL/static/js/main.7b3e851e.chunk.js.map",
+    "runtime-main.js": "/Tiny-URL/static/js/runtime-main.03592abb.js",
+    "runtime-main.js.map": "/Tiny-URL/static/js/runtime-main.03592abb.js.map",
+    "static/js/2.1414e832.chunk.js": "/Tiny-URL/static/js/2.1414e832.chunk.js",
+    "static/js/2.1414e832.chunk.js.map": "/Tiny-URL/static/js/2.1414e832.chunk.js.map",
+    "static/js/3.36ae510c.chunk.js": "/Tiny-URL/static/js/3.36ae510c.chunk.js",
+    "static/js/3.36ae510c.chunk.js.map": "/Tiny-URL/static/js/3.36ae510c.chunk.js.map",
+    "index.html": "/Tiny-URL/index.html",
+    "static/css/main.91ee462f.chunk.css.map": "/Tiny-URL/static/css/main.91ee462f.chunk.css.map",
+    "static/js/2.1414e832.chunk.js.LICENSE.txt": "/Tiny-URL/static/js/2.1414e832.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.03592abb.js",
+    "static/js/2.1414e832.chunk.js",
+    "static/css/main.91ee462f.chunk.css",
+    "static/js/main.7b3e851e.chunk.js"
+  ]
+}
